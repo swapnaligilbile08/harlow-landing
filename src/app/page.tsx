@@ -296,7 +296,7 @@ export default function Home() {
 
           {/* Logo */}
           <div className="boot-logo">
-            <svg width="220" height="60" viewBox="0 0 220 60" fill="none">
+            <svg width="360" height="60" viewBox="0 0 360 60" fill="none">
               <text
                 x="50%"
                 y="48"
@@ -310,7 +310,7 @@ export default function Home() {
                 HARLOW
               </text>
               <defs>
-                <linearGradient id="goldGrad" x1="0" y1="0" x2="220" y2="0" gradientUnits="userSpaceOnUse">
+                <linearGradient id="goldGrad" x1="0" y1="0" x2="360" y2="0" gradientUnits="userSpaceOnUse">
                   <stop offset="0%" stopColor="#c47a3a" />
                   <stop offset="50%" stopColor="#d4a853" />
                   <stop offset="100%" stopColor="#c47a3a" />
