@@ -12,7 +12,7 @@ const products = [
     price: "$285",
     oldPrice: "$340",
     badge: "Bestseller",
-    img: "https://images.pexels.com/photos/11860930/pexels-photo-11860930.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=500",
+    img: "https://images.pexels.com/photos/14490682/pexels-photo-14490682.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=500",
     cat: "fragrance",
   },
   {
