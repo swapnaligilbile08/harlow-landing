@@ -2,42 +2,43 @@
 
 /* ─── CSS Custom Properties ─────────────────────────────── */
 :root {
-  --bg-primary: #faf7f4;
-  --bg-secondary: #f0ebe4;
-  --text-primary: #1a1008;
-  --text-secondary: #5a4a3a;
-  --text-muted: #8a7a6a;
-  --accent: #8b4513;
-  --accent-light: #c47a3a;
-  --accent-gold: #d4a853;
+  --bg-primary: #faf5f2;
+  --bg-secondary: #f3e8e4;
+  --text-primary: #2e1a20;
+  --text-secondary: #6b4a52;
+  --text-muted: #9c7c82;
+  --accent: #8b4a5c;
+  --accent-light: #c98a9c;
+  --accent-gold: #c9a24a;
   --accent-rose: #b5516e;
-  --border: rgba(139, 69, 19, 0.15);
-  --glass-bg: rgba(250, 247, 244, 0.6);
-  --glass-border: rgba(212, 168, 83, 0.25);
-  --nav-bg: rgba(250, 247, 244, 0.85);
-  --nav-bg-solid: #faf7f4;
+  --border: rgba(139, 74, 92, 0.15);
+  --glass-bg: rgba(250, 245, 242, 0.6);
+  --glass-border: rgba(201, 162, 74, 0.25);
+  --nav-bg: rgba(250, 245, 242, 0.85);
+  --nav-bg-solid: #faf5f2;
   --card-bg: rgba(255, 255, 255, 0.5);
-  --shadow-color: rgba(139, 69, 19, 0.12);
+  --shadow-color: rgba(139, 74, 92, 0.12);
 }
-
+ 
 [data-theme="dark"] {
-  --bg-primary: #0d0a08;
-  --bg-secondary: #140f0a;
-  --text-primary: #f5ede3;
-  --text-secondary: #c8b49a;
-  --text-muted: #7a6a5a;
-  --accent: #c47a3a;
+  --bg-primary: #1c1116;
+  --bg-secondary: #241620;
+  --text-primary: #f5ede8;
+  --text-secondary: #d1a8b0;
+  --text-muted: #8a6a70;
+  --accent: #c9748c;
   --accent-light: #d4a853;
   --accent-gold: #d4a853;
-  --accent-rose: #d4607a;
-  --border: rgba(212, 168, 83, 0.2);
-  --glass-bg: rgba(13, 10, 8, 0.6);
-  --glass-border: rgba(212, 168, 83, 0.2);
-  --nav-bg: rgba(13, 10, 8, 0.85);
-  --nav-bg-solid: #0d0a08;
-  --card-bg: rgba(20, 15, 10, 0.7);
+  --accent-rose: #e08aa0;
+  --border: rgba(201, 162, 74, 0.2);
+  --glass-bg: rgba(28, 17, 22, 0.6);
+  --glass-border: rgba(201, 162, 74, 0.2);
+  --nav-bg: rgba(28, 17, 22, 0.85);
+  --nav-bg-solid: #1c1116;
+  --card-bg: rgba(36, 22, 32, 0.7);
   --shadow-color: rgba(0, 0, 0, 0.4);
 }
+ 
 
 /* ─── Reset & Base ──────────────────────────────────────── */
 *,
